@@ -4,29 +4,29 @@ This is my first repository for the React project GifExpertApp.
 
 Below is what we practiced:
 
-Custom Hooks
+- Custom Hooks
 
-Fetching data from an API
+- Fetching data from an API
 
-Communication between components
+- Communication between components
 
-CSS Classes
+- CSS Classes
 
-Animations
+- Animations
 
-Passing methods as arguments
+- Passing methods as arguments
 
-Creating lists
+- Creating lists
 
-Keys
+- Keys
 
-Giphy
+- Giphy
 
-Below is what we used
+Below is what we used:
 
-Vite
+- Vite
 
-React
+- React
 
 
 
